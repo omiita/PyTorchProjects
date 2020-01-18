@@ -42,10 +42,13 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 ### Techniques
 
 * RAdam
+* Cosine Annealing Learning Rate Scheduler
 
 ## Ref.
+GitHub links in case there is no such function in PyTorch (or PyTorch family).
 
-* EfficientNet: [[GitHub]](https://github.com/lukemelas/EfficientNet-PyTorch) [[Paper]](https://arxiv.org/abs/1905.11946)
+* EfficientNet:[[Paper]](https://arxiv.org/abs/1905.11946)[[GitHub]](https://github.com/lukemelas/EfficientNet-PyTorch)
 * MobleNet-v2:
-[[GitHub]](https://github.com/tonylins/pytorch-mobilenet-v2) [[Paper]](https://arxiv.org/abs/1801.04381)
-* RAdam: [[GitHub]](https://github.com/LiyuanLucasLiu/RAdam)[[Paper]](https://arxiv.org/abs/1908.03265)
+ [[Paper]](https://arxiv.org/abs/1801.04381)
+* RAdam: [[Paper]](https://arxiv.org/abs/1908.03265)[[GitHub]](https://github.com/LiyuanLucasLiu/RAdam)
+* Cos Annealing LR Scheduler:[[Paper]](https://arxiv.org/abs/1608.03983)
