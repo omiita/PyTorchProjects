@@ -8,3 +8,4 @@ CIFAR-10
 * EfficientNet
 * MobileNet
 * ResNet
+* MixNet
