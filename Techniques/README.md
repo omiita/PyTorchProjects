@@ -7,3 +7,6 @@ CIFAR-10
 ## Techniques
 * RAdam
 * Cosine Annealing Learning Rate Scheduler
+* Image Augmentation
+* tqdm
+* Warmup
