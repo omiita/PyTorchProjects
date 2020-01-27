@@ -10,3 +10,4 @@ CIFAR-10
 * Image Augmentation
 * tqdm
 * Warmup
+* Half Precision
