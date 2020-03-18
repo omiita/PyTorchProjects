@@ -12,6 +12,16 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 * EfficientNet
 * MobileNet-v2
 
+### 1.2 Image Generation
+#### 1.2.1 Dataset
+
+* CIFAR-10
+
+#### 1.2.2 Models
+
+* GAN
+* DCGAN
+* Conditional GAN
 
 ## 2. Natural Language Processing
 ### 2.1 Sentiment Analysis
@@ -43,6 +53,11 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 
 * RAdam
 * Cosine Annealing Learning Rate Scheduler
+* Image Augmentation
+* tqdm
+* Half Precision
+* Warmup
+
 
 ## Ref.
 GitHub links in case there is no such function in PyTorch (or PyTorch family).
