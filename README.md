@@ -3,7 +3,7 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 
 ## 1. Computer Vision
 ### 1.1 Image Classification
-#### 1.1.1 Dataset
+#### 1.1.1 Datasets
 
 * CIFAR-10
 
@@ -11,9 +11,10 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 
 * EfficientNet
 * MobileNet-v2
+* MixNet
 
 ### 1.2 Image Generation
-#### 1.2.1 Dataset
+#### 1.2.1 Datasets
 
 * CIFAR-10
 
@@ -23,9 +24,19 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 * DCGAN
 * Conditional GAN
 
+### 1.3 Image Representation Learning
+
+#### 1.3.1 Datasets
+
+* CIFAR-10
+
+#### 1.3.2 Models
+
+* Convolutional AutoEncoder
+
 ## 2. Natural Language Processing
 ### 2.1 Sentiment Analysis
-#### 2.1.1 Dataset
+#### 2.1.1 Datasets
 
 * IMDb
 
@@ -36,7 +47,7 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 
 ## 4. Graphs
 ### 4.1 Node Classification
-#### 4.1.1 Dataset
+#### 4.1.1 Datasets
 
 * Cora
 
@@ -45,7 +56,7 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 
 ## Techniques
 ### Optimizers
-#### Dataset
+#### Datasets
 
 * CIFAR-10
 
