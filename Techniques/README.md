@@ -11,3 +11,4 @@ CIFAR-10
 * tqdm
 * Warmup
 * Half Precision
+* Oputuna

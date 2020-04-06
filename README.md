@@ -68,6 +68,7 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 * tqdm
 * Half Precision
 * Warmup
+* Optuna
 
 
 ## Ref.
