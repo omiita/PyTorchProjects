@@ -34,6 +34,16 @@ Use 50 models(or Techniques) for standard datasets with PyTorch.(In progress)
 
 * Convolutional AutoEncoder
 
+### 1.4 Few-shot Image Classification
+
+#### 1.4.1 Datasets
+
+* AT&T faces dataset
+
+#### 1.4.2 Models
+
+* Siamese Network
+
 ## 2. Natural Language Processing
 ### 2.1 Sentiment Analysis
 #### 2.1.1 Datasets
